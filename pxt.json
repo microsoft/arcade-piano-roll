@@ -1,6 +1,7 @@
 {
     "name": "arcade-piano-roll",
-    "version": "0.0.0",
+    "description": "(Beta) Create songs using a piano roll editor!",
+    "version": "0.0.1",
     "files": [
         "README.md",
         "icon.png",
