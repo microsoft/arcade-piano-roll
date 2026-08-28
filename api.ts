@@ -1,4 +1,4 @@
-//% color="#E63022"
+//% color="#E30FC0"
 //% block="Piano Roll"
 //% icon="\uf001"
 namespace pianoRoll {
@@ -16,7 +16,7 @@ namespace pianoRoll {
     //% toolboxParent=music_playable_play
     //% toolboxParentArgument=toPlay
     //% duplicateShadowOnDrag
-    //% help=music/create-song
+    //% help=github:arcade-piano-roll/docs/create-song
     export function createSong(song: Buffer): music.Playable {
         return new music.sequencer.Song(song);
     }
