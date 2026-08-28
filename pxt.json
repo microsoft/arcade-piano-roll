@@ -5,7 +5,8 @@
         "README.md",
         "icon.png",
         "api.ts",
-        "main.ts"
+        "main.ts",
+        "docs/create-song.md"
     ],
     "supportedTargets": [
         "arcade"
